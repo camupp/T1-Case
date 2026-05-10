@@ -1,0 +1,126 @@
+[
+  {
+    "id": 1,
+    "task_category": "web-hosting",
+    "tech_stack": [
+      "Python",
+      "PostgreSQL",
+      "Docker",
+      "Nginx"
+    ],
+    "use_case_tags": [
+      "web-hosting",
+      "devops"
+    ],
+    "budget_range_rub": "10000-50000",
+    "compliance_required": true,
+    "region": "Russia",
+    "created_for_testing": true
+  },
+  {
+    "id": 2,
+    "task_category": "backup",
+    "tech_stack": [
+      "S3",
+      "Linux"
+    ],
+    "use_case_tags": [
+      "backup",
+      "storage"
+    ],
+    "budget_range_rub": "1000-10000",
+    "compliance_required": true,
+    "region": "Russia",
+    "created_for_testing": true
+  },
+  {
+    "id": 3,
+    "task_category": "analytics",
+    "tech_stack": [
+      "ClickHouse",
+      "Kafka",
+      "Python"
+    ],
+    "use_case_tags": [
+      "analytics",
+      "data-lake",
+      "streaming"
+    ],
+    "budget_range_rub": "30000-150000",
+    "compliance_required": false,
+    "region": "Russia",
+    "created_for_testing": true
+  },
+  {
+    "id": 4,
+    "task_category": "ml-training",
+    "tech_stack": [
+      "Python",
+      "TensorFlow",
+      "Docker",
+      "Kubernetes"
+    ],
+    "use_case_tags": [
+      "ml-training",
+      "gpu",
+      "devops"
+    ],
+    "budget_range_rub": "50000-300000",
+    "compliance_required": false,
+    "region": "Russia",
+    "created_for_testing": true
+  },
+  {
+    "id": 5,
+    "task_category": "kubernetes",
+    "tech_stack": [
+      "Kubernetes",
+      "Docker",
+      "Helm"
+    ],
+    "use_case_tags": [
+      "devops",
+      "container-orchestration",
+      "microservices"
+    ],
+    "budget_range_rub": "20000-100000",
+    "compliance_required": true,
+    "region": "Russia",
+    "created_for_testing": true
+  },
+  {
+    "id": 6,
+    "task_category": "database",
+    "tech_stack": [
+      "PostgreSQL",
+      "Redis"
+    ],
+    "use_case_tags": [
+      "database",
+      "managed-db",
+      "web-hosting"
+    ],
+    "budget_range_rub": "5000-30000",
+    "compliance_required": true,
+    "region": "Russia",
+    "created_for_testing": true
+  },
+  {
+    "id": 7,
+    "task_category": "cdn",
+    "tech_stack": [
+      "CDN",
+      "S3",
+      "Nginx"
+    ],
+    "use_case_tags": [
+      "media-storage",
+      "static-hosting",
+      "cdn"
+    ],
+    "budget_range_rub": "3000-20000",
+    "compliance_required": false,
+    "region": "Russia",
+    "created_for_testing": true
+  }
+]

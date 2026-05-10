@@ -1,0 +1,58 @@
+[
+  {
+    "provider_id": "t1-cloud",
+    "name": "Т1 Облако",
+    "base_platform": null,
+    "is_152fz_compliant": true,
+    "regions": [
+      "Moscow",
+      "Russia"
+    ],
+    "api_docs_url": null,
+    "pricing_url": null,
+    "source_url": "https://t1-cloud.ru",
+    "parsed_at": "2026-05-09T17:57:03.781756Z"
+  },
+  {
+    "provider_id": "selectel",
+    "name": "Selectel",
+    "base_platform": null,
+    "is_152fz_compliant": true,
+    "regions": [
+      "Moscow",
+      "Russia",
+      "Saint-Petersburg"
+    ],
+    "api_docs_url": null,
+    "pricing_url": null,
+    "source_url": "https://selectel.ru",
+    "parsed_at": "2026-05-09T17:59:30.436320Z"
+  },
+  {
+    "provider_id": "cloud-ru",
+    "name": "Cloud.ru",
+    "base_platform": null,
+    "is_152fz_compliant": true,
+    "regions": [
+      "Russia"
+    ],
+    "api_docs_url": null,
+    "pricing_url": null,
+    "source_url": "https://cloud.ru",
+    "parsed_at": "2026-05-09T17:59:38.820510Z"
+  },
+  {
+    "provider_id": "vk-cloud",
+    "name": "VK Cloud",
+    "base_platform": null,
+    "is_152fz_compliant": true,
+    "regions": [
+      "Moscow",
+      "Russia"
+    ],
+    "api_docs_url": null,
+    "pricing_url": null,
+    "source_url": "https://cloud.vk.com",
+    "parsed_at": "2026-05-09T19:18:36.835896Z"
+  }
+]
