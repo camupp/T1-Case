@@ -1,0 +1,34 @@
+[
+  {
+    "provider_id": "cloud-ru",
+    "url": "https://cloud.ru/services",
+    "parsed_at": "2026-05-09T17:59:38.820531+00:00",
+    "status": "success",
+    "records_added": 1,
+    "error": null
+  },
+  {
+    "provider_id": "cloud-ru",
+    "url": "https://cloud.ru/docs",
+    "parsed_at": "2026-05-09T17:59:40.571566+00:00",
+    "status": "success",
+    "records_added": 1,
+    "error": null
+  },
+  {
+    "provider_id": "cloud-ru",
+    "url": "https://cloud.ru/documents/tariffs/index",
+    "parsed_at": "2026-05-09T17:59:42.189805+00:00",
+    "status": "success",
+    "records_added": 1,
+    "error": null
+  },
+  {
+    "provider_id": "cloud-ru",
+    "url": "https://cloud.ru/security",
+    "parsed_at": "2026-05-09T17:59:43.924694+00:00",
+    "status": "success",
+    "records_added": 1,
+    "error": null
+  }
+]

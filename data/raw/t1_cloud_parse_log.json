@@ -1,0 +1,26 @@
+[
+  {
+    "provider_id": "t1-cloud",
+    "url": "https://t1-cloud.ru/documents/services",
+    "parsed_at": "2026-05-09T17:57:03.781793+00:00",
+    "status": "success",
+    "records_added": 1,
+    "error": null
+  },
+  {
+    "provider_id": "t1-cloud",
+    "url": "https://t1-cloud.ru/documents/rates",
+    "parsed_at": "2026-05-09T17:57:57.602290+00:00",
+    "status": "success",
+    "records_added": 1,
+    "error": null
+  },
+  {
+    "provider_id": "t1-cloud",
+    "url": "https://t1-cloud.ru/docs/article/api",
+    "parsed_at": "2026-05-09T17:58:09.638144+00:00",
+    "status": "success",
+    "records_added": 1,
+    "error": null
+  }
+]

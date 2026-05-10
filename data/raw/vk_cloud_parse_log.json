@@ -1,0 +1,34 @@
+[
+  {
+    "provider_id": "vk-cloud",
+    "url": "https://cloud.vk.com/cloud-platform/",
+    "parsed_at": "2026-05-09T19:18:36.835931+00:00",
+    "status": "success",
+    "records_added": 1,
+    "error": null
+  },
+  {
+    "provider_id": "vk-cloud",
+    "url": "https://cloud.vk.com/pricing/",
+    "parsed_at": "2026-05-09T19:18:39.152106+00:00",
+    "status": "success",
+    "records_added": 1,
+    "error": null
+  },
+  {
+    "provider_id": "vk-cloud",
+    "url": "https://cloud.vk.com/docs/",
+    "parsed_at": "2026-05-09T19:18:41.249190+00:00",
+    "status": "success",
+    "records_added": 1,
+    "error": null
+  },
+  {
+    "provider_id": "vk-cloud",
+    "url": "https://cloud.vk.com/certificates/",
+    "parsed_at": "2026-05-09T19:18:43.062613+00:00",
+    "status": "success",
+    "records_added": 1,
+    "error": null
+  }
+]

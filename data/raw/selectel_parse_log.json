@@ -1,0 +1,34 @@
+[
+  {
+    "provider_id": "selectel",
+    "url": "https://selectel.ru/services/cloud/",
+    "parsed_at": "2026-05-09T17:59:30.436348+00:00",
+    "status": "success",
+    "records_added": 1,
+    "error": null
+  },
+  {
+    "provider_id": "selectel",
+    "url": "https://selectel.ru/prices/",
+    "parsed_at": "2026-05-09T17:59:32.169913+00:00",
+    "status": "success",
+    "records_added": 1,
+    "error": null
+  },
+  {
+    "provider_id": "selectel",
+    "url": "https://docs.selectel.ru/",
+    "parsed_at": "2026-05-09T17:59:34.192145+00:00",
+    "status": "success",
+    "records_added": 1,
+    "error": null
+  },
+  {
+    "provider_id": "selectel",
+    "url": "https://selectel.ru/about/security/",
+    "parsed_at": "2026-05-09T17:59:35.681127+00:00",
+    "status": "success",
+    "records_added": 1,
+    "error": null
+  }
+]
